@@ -1,1 +1,17 @@
+# IDE
+.idea/
+.vs/
+
+# Node Modules
+node_modules/
+npm-debug.log
 .DS_Store
+
+# Backup Files
+*.bak
+
+# Local Files
+*.lock
+
+# Build Artifacts
+dist/
